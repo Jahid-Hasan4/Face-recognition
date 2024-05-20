@@ -5,7 +5,7 @@ import os
 from time import process_time
 from datetime import datetime
 
-
+# To get the list of csv files in Data dir except Names.csv one
 t1 = process_time()
 loc ='images' # images file location
 images = [] # list of images
@@ -14,7 +14,6 @@ mylist  = os.listdir(loc)
 home = os.getcwd()
 existing_ppl = []
 
-# To get the list of csv files in Data dir except Names.csv one 
 os.chdir('Data')
 fileName = "Names.csv"
 try:
