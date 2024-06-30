@@ -1,10 +1,6 @@
 # Attendance-System
 Attendance system using face recognition
 
-<p align="center">
-<img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
-<img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
-</p>
 
 ## ABOUT TOOL :
 
